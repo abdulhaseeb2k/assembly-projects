@@ -17,8 +17,7 @@ To compile and run this game, you will need:
 1. **Install Visual Studio**: Ensure that Visual Studio is installed with the Desktop development with C++ workload, which includes support for MASM.
 
 2. **Clone the Repository**: Clone this repository to your local machine using:
-   ```bash
-   git clone https://github.com/your-github-username/tic-tac-toe-asm.git](https://github.com/haseebbutt085/TicTacToe-Assembly-X86.git
+
 
 
 3. **Open the Project:**
